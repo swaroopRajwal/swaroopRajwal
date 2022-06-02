@@ -14,11 +14,11 @@
 {
   fullName: "Swaroop Jaikumar Rajwal", 
   age: "19 years old",
-  nationality: "Indian 🇮🇳",
-  obsessedWith: "Web Development",
+  nationality: "Indian🇮🇳",
+  obsessedWith: "Web Development🌐",
   hobbies: [
     "Jump Rope",
-    "Exploring Libraries which works along with React ⚛."
+    "Exploring Libraries which works along with React⚛️."
   ]
 }
 ```
