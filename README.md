@@ -48,6 +48,7 @@ alt="github-readme-streak-stats"></a>
   typescript: true,
   styling: "TailwindCSS",
   component: "RadixUI"
+  
 }
 ```
 <br>
@@ -63,6 +64,7 @@ alt="github-readme-streak-stats"></a>
     extension for 
     VSCode",
   typescript: false,
+  
 }
 ```
 
@@ -78,5 +80,6 @@ alt="github-readme-streak-stats"></a>
   framework: "ExpressJS",
   typescript: false,
   deployment: "Heroku"
+  
 }
 ```
