@@ -50,6 +50,7 @@ alt="github-readme-streak-stats"></a>
   component: "RadixUI"
 }
 ```
+<br>
 
 2. [react-code-snippets](https://marketplace.visualstudio.com/items?itemName=Swarooprajwal.react-code-snippets)
 
@@ -64,6 +65,8 @@ alt="github-readme-streak-stats"></a>
   typescript: false,
 }
 ```
+
+<br>
 
 3. [zodiac-signs-api](https://github.com/swaroopRajwal/zodiac-signs-server)
 
