@@ -40,7 +40,7 @@
 ## Projects
 1. [Octoprofile](https://0ctoprofile.vercel.app) - `https://0ctoprofile.vercel.app`
 
-<a href="https://github.com/swaroopRajwal/octoprofile"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swaroopRajwal&repo=octoprofile&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" align="left" height="155"
+<a href="https://github.com/swaroopRajwal/octoprofile"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swaroopRajwal&repo=octoprofile&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" align="left" height="153"
 alt="github-readme-streak-stats"></a>
 ```js
 {
@@ -55,7 +55,7 @@ alt="github-readme-streak-stats"></a>
 2. [react-code-snippets](https://marketplace.visualstudio.com/items?itemName=Swarooprajwal.react-code-snippets)
 
 
-<a href="https://github.com/swaroopRajwal/react-code-snippets"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swaroopRajwal&repo=react-code-snippets&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" align="left" height="155"
+<a href="https://github.com/swaroopRajwal/react-code-snippets"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swaroopRajwal&repo=react-code-snippets&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" align="left" height="153"
 alt="github-readme-streak-stats"></a>
 ```js
 {
@@ -70,7 +70,7 @@ alt="github-readme-streak-stats"></a>
 
 3. [zodiac-signs-api](https://github.com/swaroopRajwal/zodiac-signs-server)
 
-<a href="https://github.com/swaroopRajwal/zodiac-signs-server"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swaroopRajwal&repo=zodiac-signs-server&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" align="left" height="155"
+<a href="https://github.com/swaroopRajwal/zodiac-signs-server"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=swaroopRajwal&repo=zodiac-signs-server&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" align="left" height="153"
 alt="github-readme-streak-stats"></a>
 ```js
 {
