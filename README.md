@@ -24,18 +24,17 @@
 ```
 
 ## Tech Backpack 🤭
+Daily drivers -
 
-<h1 align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,redux,nextjs,ts,nodejs,expressjs" align="center">
-</h1>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,redux,nextjs,ts,nodejs,expressjs" align="center">
 
-<h1 align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,linux" align="center">
-</h1>
+Other tools -
 
-<h1 align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python" align="center">
-</h1>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,linux" align="center">
+
+Miscellaneous -
+
+<img src="https://skillicons.dev/icons?i=cpp,python" align="center">
 
 ## Projects
 1. [Octoprofile](https://0ctoprofile.vercel.app) - `https://0ctoprofile.vercel.app`
