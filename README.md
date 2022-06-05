@@ -21,7 +21,7 @@
 ```
 
 ## Tech Backpack 🤭
-Daily drivers -
+Good With -
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,redux,nextjs,ts,nodejs,expressjs" align="center">
 
