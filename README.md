@@ -1,10 +1,11 @@
-<h1 align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swaroopRajwal&theme=react&hide_border=true&show_icons=true&count_private=true&custom_title=GitHub Stats &#128578" align="center" width="47%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaroopRajwal&theme=react&bg_color=20232a&hide_border=true" align="center" width="47%">
-</h1>
-<h1 align="center">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroopRajwal&layout=compact&show_icons=true&theme=react&bg_color=20232a&hide_border=true&custom_title=Language Stats 👨‍💻" align="center" width="50%">
-</h1>
+</p>
+
 <hr>
 
 # Hello👋, I'm Swaroop😎
@@ -80,3 +81,22 @@ alt="github-readme-streak-stats"></a>
   
 }
 ```
+
+<hr>
+
+## Connect with me
+
+<p align="left">
+<a href="mailto:swaroop.rajwal18@gmail.com" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/swaroop-rajwal-a606761b5/" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/swaroopRajwal" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/swaroop_rajwal" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+</p>
