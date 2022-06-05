@@ -82,8 +82,6 @@ alt="github-readme-streak-stats"></a>
 }
 ```
 
-<hr>
-
 ## Connect with me
 
 <p align="left">
