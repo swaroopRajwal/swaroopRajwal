@@ -6,8 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroopRajwal&layout=compact&show_icons=true&theme=react&bg_color=20232a&hide_border=true&custom_title=Language Stats 👨‍💻" align="center" width="50%">
 </p>
 
-<hr>
-
 # Hello👋, I'm Swaroop😎
 
 <!-- * The about section -->
