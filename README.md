@@ -19,6 +19,9 @@
   ]
 }
 ```
+<p align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/759295339789680680?bg=20232a&idleMessage=Hello!%20Want%20to%20connect%20with%20me%20on%20discord?😁&" alt=" ">
+</p>
 
 ## Tech Backpack 🤭
 Good With -
