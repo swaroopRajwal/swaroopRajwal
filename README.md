@@ -15,15 +15,10 @@
   obsessedWith: "Web Development🌐",
   hobbies: [
     "Jump Rope",
-    "Exploring Libraries which works along with React⚛️."
+    "Exploring Libraries which works along with React⚛️.",
   ]
 }
 ```
-<p align="center">
-  <a href="https://discord.gg/A9RDhm7J4t" target="_blank">
-    <img src="https://lanyard-profile-readme.vercel.app/api/759295339789680680?bg=20232a&idleMessage=Hello!%20Want%20to%20connect%20with%20me%20on%20discord?😁&" alt=" ">
-  </a>
-</p>
 
 ## Tech Backpack 🤭
 Good With -
