@@ -1,9 +1,13 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swaroopRajwal&theme=react&hide_border=true&show_icons=true&count_private=true&custom_title=GitHub Stats &#128578" align="center" width="47%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaroopRajwal&theme=react&bg_color=20232a&hide_border=true" align="center" width="47%">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroopRajwal&layout=compact&show_icons=true&theme=react&bg_color=20232a&hide_border=true&custom_title=Language Stats 👨‍💻" align="center" width="50%">
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaroopRajwal&theme=react&bg_color=20232a&hide_border=true" align="center" width="47%">
 </p>
 
 # Hello👋, I'm Swaroop😎
@@ -15,28 +19,23 @@
   obsessedWith: "Web Development🌐",
   hobbies: [
     "Jump Rope",
-    "Exploring Libraries which works along with React⚛️."
+    "Exploring Libraries which works along with React⚛️.",
   ]
 }
 ```
-<p align="center">
-  <a href="https://discord.gg/A9RDhm7J4t" target="_blank">
-    <img src="https://lanyard-profile-readme.vercel.app/api/759295339789680680?bg=20232a&idleMessage=Hello!%20Want%20to%20connect%20with%20me%20on%20discord?😁&" alt=" ">
-  </a>
-</p>
 
 ## Tech Backpack 🤭
 Good With -
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,redux,nextjs,ts,nodejs,expressjs" align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,expressjs,tailwind,redux,nextjs,vite" align="center">
 
 Other tools -
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,linux" align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vim,linux" align="center">
 
 Miscellaneous -
 
-<img src="https://skillicons.dev/icons?i=cpp,python" align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,mongodb,mysql,bash" align="center">
 
 ## Projects
 1. [Octoprofile](https://0ctoprofile.vercel.app) - `https://0ctoprofile.vercel.app`
