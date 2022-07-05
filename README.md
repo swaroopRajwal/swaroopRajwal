@@ -23,15 +23,15 @@
 ## Tech Backpack 🤭
 Good With -
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,redux,nextjs,ts,nodejs,expressjs" align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,expressjs,tailwind,redux,nextjs,vite" align="center">
 
 Other tools -
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,linux" align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vim,linux" align="center">
 
 Miscellaneous -
 
-<img src="https://skillicons.dev/icons?i=cpp,python" align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,mongodb,mysql,bash" align="center">
 
 ## Projects
 1. [Octoprofile](https://0ctoprofile.vercel.app) - `https://0ctoprofile.vercel.app`
